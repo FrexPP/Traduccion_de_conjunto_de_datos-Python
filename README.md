@@ -24,7 +24,7 @@ Importante: Si bien este conjunto de datos cuenta con 5 tablas, se descartó una
 posteriormente en el proyecto.
 
 ##### ·customers.csv - 7 columnas / 100 mil filas
-Tabla de datos de los clientes que se registraron en el sitio web de la página.
+Tabla de datos de los clientes que se registraron en el sitio web de la tienda.
 
 ###### Columnas: 
           customer_id - Identificador único del cliente 
